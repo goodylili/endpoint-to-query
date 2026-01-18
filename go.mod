@@ -1,0 +1,1 @@
+module graphql2go
