@@ -1,0 +1,11 @@
+query GetChainAndLatestCheckpoint {
+  chainIdentifier
+  checkpointConnection(last: 1) {
+    nodes {
+      sequenceNumber
+      timestamp
+      digest
+    }
+  }
+}
+
