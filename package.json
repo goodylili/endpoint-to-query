@@ -16,16 +16,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goodylili/sui-graphql-types.git"
+    "url": "git+https://github.com/goodylili/endpoint-to-query.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/goodylili/sui-graphql-types/issues"
+    "url": "https://github.com/goodylili/endpoint-to-query/issues"
   },
-  "homepage": "https://github.com/goodylili/sui-graphql-types#readme",
+  "homepage": "https://github.com/goodylili/endpoint-to-query#readme",
   "devDependencies": {
     "@types/node": "^25.0.9",
     "ts-node": "^10.9.2",
